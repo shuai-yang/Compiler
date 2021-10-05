@@ -1,7 +1,4 @@
 body {
-  margin:0;
-  width: 100vw;
-  height: 100vh;
   --bg-color: #2d3636;
   --bg-size: 20px;
   --bg-position: calc(var(--bg-size) / 2);
