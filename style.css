@@ -22,11 +22,6 @@ body {
   text-align: center;
 }
 
-div {
-    width: 100vw;
-    height: 100vh;
-}
-
 h1 {
   font-family: "Fira Mono", monospace;
   font-size: 5em;
