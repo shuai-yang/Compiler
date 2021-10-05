@@ -18,9 +18,9 @@ body {
   background-size: var(--bg-size) var(--bg-size);
   text-align: center;
   a:link {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
   }
 }
 
