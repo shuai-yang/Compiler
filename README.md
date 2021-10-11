@@ -1,2 +1,2 @@
-# online resume (WIP)
+# Online Resume (WIP)
 https://shuai-yang.github.io
