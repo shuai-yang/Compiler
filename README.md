@@ -1,2 +1,2 @@
-# self-built online resume
+# online resume (wip)
 https://shuai-yang.github.io
